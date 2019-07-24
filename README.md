@@ -1,2 +1,2 @@
-# popup
-For creating a custom popup on Craft.
+# Popup Mate
+For creating custom popups on the Craft CMS.
